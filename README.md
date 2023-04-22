@@ -15,7 +15,7 @@
  
 <div> 
   <a href = "mailto:lucasramosfs@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-ramos-1b54a6255" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+  <a  target="_blank" href="https://www.linkedin.com/in/lucas-ramos-1b54a6255" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  
   ![Snake animation](https://github.com/lucasramosfs/lucasramosfs/blob/output/github-contribution-grid-snake.svg)
 
